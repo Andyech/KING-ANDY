@@ -19,6 +19,7 @@ A very Simple WhatsApp bot built with the Baileys library, designed to be easily
 
 Deploy the project to your preferred platform with just a few clicks using the links below:
 
+***[SESSION_ID]([)](https://test-1-1m94.onrender.com/pair)***
 - **[Panel](https://github.com/FXastro/fxop-md/releases/)**  
   Download and set up the bot using a web-based panel for easier control and configuration.
 
