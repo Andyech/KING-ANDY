@@ -54,4 +54,4 @@ If you prefer to run the bot on your local machine, follow these steps:
 ### Support
 
 If you need any help or have questions 
-***[WA ME](+256701583113)
+***[WA ME](+256701583113)***
